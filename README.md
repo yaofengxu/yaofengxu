@@ -1,4 +1,4 @@
 yaofengxu
 =========
 
-for professinal use
+for professional use
